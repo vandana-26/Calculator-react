@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.calWrapper {
+  border: 1px outset black;
+  margin: auto;
+  width: 70%;
+  height: 395px;
+}
+
+.result {
+  border-bottom: 1px solid black;
+  height: 18%;
+  overflow: auto;
+  background-color: gray;
+  text-align: right;
+}
+
+input {
+  width: 25%;
+  height: 65px;
+  background-color: lightgray;
+  cursor: pointer;
+}
